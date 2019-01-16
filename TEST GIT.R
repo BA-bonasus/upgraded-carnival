@@ -19,4 +19,5 @@
 #A "Git" tab will now be created alongside Environment/History/Connections and will be watching folders that you tick 
 #Once you write a new script <- save it first <- tick the file in the Git window <- Click commit and name it 
 
-this is a test script 
+
+Once you write a new script <- save it first <- tick the file in the Git window <- Click commit and name it 
